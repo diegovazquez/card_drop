@@ -21,7 +21,7 @@ Print Profile in [Maker World](https://makerworld.com/es/models/1938737-carddrop
     * 0.18 mm Fine is recomended for 0.6 Nozzle 
 * Can be printed whitow supports
 * White PLA or PLA+ is recomended
-    * Tested whit PLA Filanova Pla+ Platinum White
+    * Tested whit Filanova PLA+ Platinum White
 * A 4 mm brim is recomended for the phone stand base
 
 Files:  
