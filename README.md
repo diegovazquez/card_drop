@@ -8,6 +8,8 @@ CardDrop is a 3d printed modular card scanner assistant for Magic The Gatering C
 
 You can get the plans in [Onshape](https://cad.onshape.com/documents/3e6c0a39159cacd4128026c6/w/4eaf27fd4c1ac576c02eefac/e/cf0dfa73e00b3c8fb2858fbe?renderMode=0&uiState=69010f9acb89d229bf5b442d)
 
+Print Profile in [Maker World](https://makerworld.com/es/models/1938737-carddrop-3-5#profileId-2081977)
+
 # Updates
 
 - 2025-10-29 - v3.5 Initial Public Version.
@@ -18,6 +20,8 @@ You can get the plans in [Onshape](https://cad.onshape.com/documents/3e6c0a39159
     * 0.16 mm Optimal is recomended for 0.4 Nozzle
     * 0.18 mm Fine is recomended for 0.6 Nozzle 
 * Can be printed whitow supports
+* White PLA or PLA+ is recomended
+    * Tested whit PLA Filanova Pla+ Platinum White
 * A 4 mm brim is recomended for the phone stand base
 
 Files:  
