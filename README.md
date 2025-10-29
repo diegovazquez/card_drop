@@ -141,7 +141,7 @@ For basic modules, the clip plans are this:
 
 ![Clip](photos/clip.png)
 
-Height is 40 mm for the back clip, 60 mm for the laterals.
+Height is 45 mm for the back clip, 60 mm for the laterals.
 
 Reference model in this [link](files/clip.stl)    
 
