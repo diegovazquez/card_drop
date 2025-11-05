@@ -12,6 +12,7 @@ Print Profile in [Maker World](https://makerworld.com/es/models/1938737-carddrop
 
 # Updates
 
+- 2025-11-05 - Small update, easyer to print phone stand base. Maker Word print profile updated.
 - 2025-10-29 - v3.5 Initial Public Version.
 
 # Print
