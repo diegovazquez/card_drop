@@ -12,6 +12,7 @@ Print Profile in [Maker World](https://makerworld.com/es/models/1938737-carddrop
 
 # Updates
 
+- 2026-04-08 - Box Small Fast, ideal for Bulk Scan
 - 2025-11-05 - Small update, easyer to print phone stand base. Maker Word print profile updated.
 - 2025-10-29 - v3.5 Initial Public Version.
 
@@ -113,9 +114,9 @@ Recomended for unsleeve cards and "perfect fit" sleeves or similar
 
 Optimized for sleeved cards, Dragon Shield or similar. Universal Box is Recomended.
 
-## Box Small (option D)
+## Box Small Fast (option D)
 
-Recomended for unsleeve cards, perfect fit or similars, ideal for Bulk Scan
+Recomended for unsleeve cards, perfect fit or similars, ideal for Bulk Scan.
 
 ## Light (option A) (recomended)
 
