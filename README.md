@@ -36,7 +36,10 @@ Files:
     * [Box Small](files/box_small.stl)   
         * Recomended for unsleeve cards, perfect fit or similars
     * [Box Sleeved](files/box_sleeved.stl)  
-        * Only for sleeve cards (Dragonshields and similars)
+        * Recomended for sleeve cards (Dragonshields and similars)
+    * Box Small Fast - [Box](files/box_small_fast_-_box.stl)/[Plataform](files/box_small_fast_-_plataform.stl)   
+        * Collapsible platform box
+        * Recomended for unsleeve cards, perfect fit or similars, ideal for Bulk Scan
 * Phone Stand   
     * [Stand](files/phone_stand.stl)
     * [Base](files/phone_stand_base.stl)
@@ -109,6 +112,10 @@ Recomended for unsleeve cards and "perfect fit" sleeves or similar
 ## Box Sleeved (option C)
 
 Optimized for sleeved cards, Dragon Shield or similar. Universal Box is Recomended.
+
+## Box Small (option D)
+
+Recomended for unsleeve cards, perfect fit or similars, ideal for Bulk Scan
 
 ## Light (option A) (recomended)
 
