@@ -1,8 +1,26 @@
 # CardDrop
 
+## Table of Contents
+
+- [What is CardDrop](#what-is-carddrop)
+- [Updates](#updates)
+- [Print](#print)
+- [Modules](#modules)
+  - [Main Body](#main-body)
+  - [Phone Stand](#phone-stand)
+  - [Box Comparison](#box-comparison)
+  - [Box Universal (Option A)](#box-universal-option-a-recommended)
+  - [Box Small (Option B)](#box-small-option-b)
+  - [Box Sleeved (Option C)](#box-sleeved-option-c)
+  - [Box Small Fast (Option D)](#box-small-fast-option-d)
+  - [Light (Option A)](#light-option-a-recommended)
+  - [Light (Option B)](#light-option-b)
+- [Create your own modules / Remixes](#create-your-own-modules--remixes)
+- [License](#license)
+
 ## What is CardDrop
 
-CardDrop is a 3d printed modular card scanner assistant for Magic The Gatering Cards. Tested whit [ManaBox App](https://manabox.app/).
+CardDrop is a 3D printed modular card scanner assistant for Magic: The Gathering cards. Tested with [ManaBox App](https://manabox.app/).
 
 ![Full](photos/card_drop_3_5.jpg)
 
@@ -13,53 +31,53 @@ Print Profile in [Maker World](https://makerworld.com/es/models/1938737-carddrop
 # Updates
 
 - 2026-04-08 - Box Small Fast, ideal for Bulk Scan
-- 2025-11-05 - Small update, easyer to print phone stand base. Maker Word print profile updated.
+- 2025-11-05 - Small update, easier to print phone stand base. Maker World print profile updated.
 - 2025-10-29 - v3.5 Initial Public Version.
 
 # Print
 
-* Tested in Bambulabs A1 Mini
-    * 0.16 mm Optimal is recomended for 0.4 Nozzle
-    * 0.18 mm Fine is recomended for 0.6 Nozzle 
-* Can be printed whitow supports
-* White PLA or PLA+ is recomended
-    * Tested whit Filanova PLA+ Platinum White
-* A 4 mm brim is recomended for the phone stand base
+* Tested in Bambu Lab A1 Mini
+    * 0.16 mm Optimal is recommended for 0.4 Nozzle
+    * 0.18 mm Fine is recommended for 0.6 Nozzle 
+* Can be printed without supports
+* White PLA or PLA+ is recommended
+    * Tested with Filanova PLA+ Platinum White
+* A 4 mm brim is recommended for the phone stand base
 
 Files:  
 
 * Main Body
     * [Body](files/body.stl)
-* Box - Chose 1 or more
-    * [Box Universal](files/box_universal.stl) (Recomended)    
-        * Recomended for sleeve cards (Dragonshields and similars)
-        * Good for unsleeve cards, perfect fit or similars
+* Box - Choose 1 or more (see [Box Comparison](#box-comparison))
+    * [Box Universal](files/box_universal.stl) (Recommended)    
+        * Recommended for sleeved cards (Dragon Shield and similar)
+        * Good for unsleeved cards, perfect fit or similar
     * [Box Small](files/box_small.stl)   
-        * Recomended for unsleeve cards, perfect fit or similars
+        * Recommended for unsleeved cards, perfect fit or similar
     * [Box Sleeved](files/box_sleeved.stl)  
-        * Recomended for sleeve cards (Dragonshields and similars)
-    * Box Small Fast - [Box](files/box_small_fast_-_box.stl)/[Plataform](files/box_small_fast_-_plataform.stl)   
+        * Recommended for sleeved cards (Dragon Shield and similar)
+    * Box Small Fast - [Box](files/box_small_fast_-_box.stl)/[Platform](files/box_small_fast_-_plataform.stl)   
         * Collapsible platform box
-        * Recomended for unsleeve cards, perfect fit or similars, ideal for Bulk Scan
+        * Recommended for unsleeved cards, perfect fit or similar, ideal for Bulk Scan
 * Phone Stand   
     * [Stand](files/phone_stand.stl)
     * [Base](files/phone_stand_base.stl)
     * [Button](files/phone_stand_base_-_button.stl)  
     * [Top](files/phone_stand_base_-_top.stl)
     * [Spring](files/phone_stand_base_-_spring.stl)  
-* Light   
-    * Option A (Recomended)
-        * [Base](files/a_light_flex_-_base.stl)     
-        * [Press](files/a_light_flex_-_press.stl)    
-        * [Cover](files/a_light_flex_-_cover.stl)  
-    * Option B
-        * [Clip](files/b_light_clip.stl)      
-        * [Cable Clip](files/b_light_cable_clip.stl)  
-        * [Diffuser](files/b_light_diffuser.stl) (Print whit 100% rectilinear infill)   
 * Optionals
-    * [Caps left/right side](files/caps_side.stl)      
-    * [Caps back](files/caps_front.stl)     
-
+    * Light   
+        * Option A (Recommended)
+            * [Base](files/a_light_flex_-_base.stl)     
+            * [Press](files/a_light_flex_-_press.stl)    
+            * [Cover](files/a_light_flex_-_cover.stl)  
+        * Option B
+            * [Clip](files/b_light_clip.stl)      
+            * [Cable Clip](files/b_light_cable_clip.stl)  
+            * [Diffuser](files/b_light_diffuser.stl) (Print with 100% rectilinear infill)   
+    * Caps
+        * [Caps left/right side](files/caps_side.stl)      
+        * [Caps back](files/caps_back.stl)     
 
 # Modules
 
@@ -84,7 +102,7 @@ Features
 
 * Adjustable height with a locking button
 * 7.5 degrees of inclination for better phone view
-* Rubber Bands support for anti-slip
+* Rubber band support for anti-slip
 * Rail Clip for expansions
 
 What you need
@@ -97,28 +115,38 @@ What you need
 ![stand_plataform](photos/stand_plataform.jpg)
 ![stand_system](photos/stand_system.jpg)
 ![stand_clip](photos/stand_clip.jpg)
+![stand_full](photos/stand_full.jpg)
 
-## Box Universal (option A) (recomended)
+## Box Comparison
 
-Recomended for sleeve cards (Dragonshields and similars)
+| Box | Sleeved cards | Unsleeved cards | Bulk Scan |
+|-----|:---:|:---:|:---:|
+| **Universal** (Recommended) | Yes | Good | - |
+| **Small** | - | Yes | - |
+| **Sleeved** | Yes | - | - |
+| **Small Fast** | - | Yes | Yes |
 
-Support for unsleeve cards is good but not perfect, sometimes you can see part of the previus card and dat confuses the scanner, a 7.5 angle in the base of the box is created as a non perfect mitigation for this problem.
+## Box Universal (Option A) (Recommended)
 
-![stand_clip](photos/box_universal_cut.png)
+Recommended for sleeved cards (Dragon Shield and similar).
 
-## Box Small (option B)
+Also works with unsleeved cards, but not perfectly — sometimes part of the previous card is visible, which can confuse the scanner. A 7.5-degree angle in the base of the box helps mitigate this issue.
 
-Recomended for unsleeve cards and "perfect fit" sleeves or similar  
+![box_universal_cut](photos/box_universal_cut.png)
 
-## Box Sleeved (option C)
+## Box Small (Option B)
 
-Optimized for sleeved cards, Dragon Shield or similar. Universal Box is Recomended.
+Recommended for unsleeved cards and "perfect fit" sleeves or similar.
 
-## Box Small Fast (option D)
+## Box Sleeved (Option C)
 
-Recomended for unsleeve cards, perfect fit or similars, ideal for Bulk Scan.
+Optimized for sleeved cards (Dragon Shield or similar). The Universal Box is recommended instead.
 
-## Light (option A) (recomended)
+## Box Small Fast (Option D)
+
+Recommended for unsleeved cards, perfect fit or similar, ideal for Bulk Scan.
+
+## Light (Option A) (Recommended)
 
 What you need
 
@@ -131,7 +159,7 @@ What you need
 ![light_a-parts](photos/light_a-parts.jpg)
 ![light_a-full](photos/light_a-full.jpg)
 
-## Light (option B) 
+## Light (Option B) 
 
 What you need
 
@@ -166,8 +194,6 @@ Original design by Diego Vazquez - CC BY-SA 4.0 license - [Link](https://creativ
 
 Notes:
 
-* Remix Allowed over the same licence.
-* You can print and sell this design, please, give appropriate credit.
-* You can create you own modules, please, keep the same license.
-
-
+* Remix allowed under the same license.
+* You can print and sell this design, please give appropriate credit.
+* You can create your own modules, please keep the same license.
